@@ -20,6 +20,9 @@ galaxy_info:
   - name: Solaris
     versions:
     - 11.1
+  - name: EL
+    versions:
+    - 7
   categories:
     - monitoring
     - system
